@@ -6,7 +6,7 @@ Student-Psm
 
 I've been learing Python and dart
 
-* 🌍  I'm based in Bangkok ,Thailand
+* 🌍  Bangkok ,Thailand
 
 ### Skills
 
